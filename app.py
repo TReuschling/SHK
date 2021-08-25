@@ -118,7 +118,7 @@ if nav == "Server":
     https://www.scaleuptech.com/de/blog/autoskalierung-in-kubernetes/  
 
     '''
-    image = Image.open("/Users/tassiloreuschling/Uni/SHK_Stelle/Code/Bilder/Aufstellung3.png")
+    image = Image.open("Aufstellung3.png")
     st.image(image, caption = "Aufstellung")
     '''
     __Links zu den Preisrechnern:__  
@@ -372,7 +372,7 @@ if nav == "Bibliotheken":
       
     https://www.graphviz.org/
     '''
-    image = Image.open("/Users/tassiloreuschling/Uni/SHK_Stelle/Code/Bilder/Graphviz.png")
+    image = Image.open("Graphviz.png")
     st.image(image)
     '''
     __Pyvis__  
