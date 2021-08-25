@@ -1,0 +1,18 @@
+streamlit
+matplotlib.pyplot
+numpy
+bokeh
+pandas
+altair
+from io import BytesIO
+scipy.special
+import Image
+altair
+from vega_datasets import data
+from bokeh.layouts import gridplot
+from bokeh.plotting import figure, output_file, show
+from PIL import Image
+from bokeh.io import curdoc
+from bokeh.layouts import column, row
+from bokeh.models import ColumnDataSource, Slider, TextInput
+from bokeh.plotting import figure
