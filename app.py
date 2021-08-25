@@ -92,7 +92,7 @@ if nav == "Server":
     Spalte 1 (Colab, Binder...) ist nicht relevant, da es sich um ein JupyterNotebook geht.  
       
     '''
-    image = Image.open("https://github.com/TReuschling/SHK/blob/main/Aufstellung1.png")
+    image = Image.open("Aufstellung1.png")
     st.image(image, caption = "Aufstellung")
     '''
     __Preiskalkulation für Littlest Jupyterhub:__  
