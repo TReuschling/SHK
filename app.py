@@ -183,7 +183,7 @@ if nav == "Bibliotheken":
     '''
     Weitere graphische Darstellungsmöglichkeite sind integriert oder mit externen Bibliothen möglich:
     '''
-    st.header("3. Mathematische Plotting - Bibliotheken")
+    st.header("3. Plotting - Bibliotheken")
     '''
     __Streamlit__  
       
