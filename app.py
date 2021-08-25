@@ -106,7 +106,7 @@ if nav == "Server":
     - Maximal 50% der Benutzer greifen gleichzeitig zu.
 
     '''
-    image = Image.open("/Users/tassiloreuschling/Uni/SHK_Stelle/Code/Bilder/Aufstellung2.png")
+    image = Image.open("Aufstellung2.png")
     st.image(image, caption = "Aufstellung")
     '''
     __Preiskalkulation für JupyterHub mit Kubernetes:__  
