@@ -4,10 +4,10 @@ numpy
 bokeh
 pandas
 altair
-from io import BytesIO
+io
 scipy.special
-import Image
-altair
+PIL
+from io import BytesIO
 from vega_datasets import data
 from bokeh.layouts import gridplot
 from bokeh.plotting import figure, output_file, show
